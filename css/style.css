@@ -8,17 +8,22 @@
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
 
+
 /* HOME */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
 @import "./home/depoimento.css";
 
+
 /* BICICLETAS */
 @import "./bicicletas/bicicletas-lista.css";
+@import "./bicicletas/bicicletas.css";
+
 
 /* SEGUROS */
 @import "./seguros/seguros.css";
+
 
 /* TERMOS */
 @import "./termos/termos.css";
