@@ -7,6 +7,7 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+@import "./utilidades/formulario.css";
 
 
 /* HOME */
@@ -20,6 +21,7 @@
 @import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
+
 /* BICICLETA */
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
@@ -29,6 +31,11 @@
 @import "./seguros/seguros.css";
 @import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
+
+
+/* CONTATO */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
 
 /* TERMOS */
